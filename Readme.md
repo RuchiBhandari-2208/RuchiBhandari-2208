@@ -1,4 +1,5 @@
 Hi 👋, I'm Ruchi Bhandari
+
 🎓 Diploma Student in Computer Engineering at Government Girls Polytechnic, Surat 🏫 Affiliated with Gujarat Technological University (GTU)
 
 💻 Passionate about programming, web development, and learning new technologies. 🚀 Exploring Full-Stack Development and building real-world projects.
