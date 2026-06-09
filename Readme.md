@@ -1,55 +1,59 @@
-👋 Hi, I'm Ruchi Bhandari
+# 👋 Hi, I'm Ruchi Bhandari
 
-🎓 Diploma Student in Computer Engineering
+## 🎓 Diploma Student in Computer Engineering
 
-🏫 Government Girls Polytechnic, Surat
+### 🏫 Government Girls Polytechnic, Surat
 
-Affiliated with Gujarat Technological University (GTU)
+#### Affiliated with Gujarat Technological University (GTU)
 
 💻 Passionate about programming, web development, and learning new technologies.
 
 🚀 Exploring Full-Stack Development and building real-world projects.
 
+---
 
-🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
-👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 * Java
 * C
 * Python
 * PHP
 
- 🌐 Frontend Development
+## 🌐 Frontend Development
 
 * HTML5
 * CSS3
 * JavaScript
 
-🗄️ Databases
+## 🗄️ Databases
 
 * MongoDB
 * PostgreSQL
 * MySQL
 
-⚙️ Tools & Platforms
+## ⚙️ Tools & Platforms
 
 * Git & GitHub
 * VS Code
 * REST APIs
 
-📚 Currently Learning
+---
 
- Advanced React.js
+# 📚 Currently Learning
 
-Backend Development
+### Advanced React.js
 
-Database Management
+### Backend Development
 
-Full-Stack Web Development
+### Database Management
 
+### Full-Stack Web Development
 
-🌟 Goals
+---
+
+# 🌟 Goals
 
 ✅ Build impactful projects
 
@@ -57,11 +61,18 @@ Full-Stack Web Development
 
 ✅ Become a skilled Full-Stack Developer
 
+---
 
-📫 Connect With Me
+# 📫 Connect With Me
 
-📧 Email:ruchibhandari2212@gmail.com
+### 📧 Email
 
-🔗 LinkedIn
+**[ruchibhandari2212@gmail.com](mailto:ruchibhandari2212@gmail.com)**
+
+### 🔗 LinkedIn
+
+*Add your LinkedIn profile link here*
+
+---
 
 ## ⭐ "Keep Learning, Keep Building."
