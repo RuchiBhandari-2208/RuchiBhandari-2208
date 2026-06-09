@@ -1,53 +1,78 @@
-Hi 👋, I'm Ruchi Bhandari
+# 👋 Hi, I'm Dipti Khapekar
 
-🎓 Diploma Student in Computer Engineering at Government Girls Polytechnic, Surat 🏫 Affiliated with Gujarat Technological University (GTU)
+## 🎓 Diploma Student in Computer Engineering
 
-💻 Passionate about programming, web development, and learning new technologies. 🚀 Exploring Full-Stack Development and building real-world projects.
+### 🏫 Government Girls Polytechnic, Surat
 
-🛠️ Skills & Technologies
+#### Affiliated with Gujarat Technological University (GTU)
 
-👨‍💻 Programming Languages
+💻 Passionate about programming, web development, and learning new technologies.
 
-Java
-C
-Python
-PHP
+🚀 Exploring Full-Stack Development and building real-world projects.
 
-🌐 Frontend Development
+---
 
-HTML5
-CSS3
-JavaScript
+# 🛠️ Skills & Technologies
 
-🗄️ Databases
+## 👨‍💻 Programming Languages
 
-MongoDB
-PostgreSQL
-MySQL
+* Java
+* C
+* Python
+* PHP
 
-⚙️ Tools & Platforms
+## 🌐 Frontend Development
 
-Git & GitHub
-VS Code
-REST APIs
+* HTML5
+* CSS3
+* JavaScript
 
-📚 Currently Learning
+## 🗄️ Databases
 
-Advanced React.js
-Backend Development
-Database Management
-Full-Stack Web Development
+* MongoDB
+* PostgreSQL
+* MySQL
 
-🌟 Goals
+## ⚙️ Tools & Platforms
 
-Build impactful projects
-Contribute to Open Source
-Become a skilled Full-Stack Developer
+* Git & GitHub
+* VS Code
+* REST APIs
 
-📫 Connect With Me
+---
 
-📧 Email: ruchibhandari2212@gmail.com
+# 📚 Currently Learning
 
-🔗 LinkedIn:
+### Advanced React.js
 
-⭐ "Keep Learning, Keep Building."
+### Backend Development
+
+### Database Management
+
+### Full-Stack Web Development
+
+---
+
+# 🌟 Goals
+
+✅ Build impactful projects
+
+✅ Contribute to Open Source
+
+✅ Become a skilled Full-Stack Developer
+
+---
+
+# 📫 Connect With Me
+
+### 📧 Email
+
+**[diptikhapekar0@gmail.com](mailto:diptikhapekar0@gmail.com)**
+
+### 🔗 LinkedIn
+
+*Add your LinkedIn profile link here*
+
+---
+
+## ⭐ "Keep Learning, Keep Building."
